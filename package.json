@@ -2,12 +2,12 @@
   "name": "trust-vote-site",
   "version": "0.1.0",
   "dependencies": {
-    "@dashevo/dashcore-lib": "^0.16.8",
-    "axios": "^0.18.0",
+    "@dashevo/dashcore-lib": "^0.19.44",
+    "axios": "^1.3.4",
     "clipboard-copy": "^2.0.1",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
-    "react-scripts": "2.1.5",
+    "react-scripts": "^5.0.1",
     "semantic-ui-react": "^0.85.0"
   },
   "scripts": {
